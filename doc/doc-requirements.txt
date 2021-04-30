@@ -4,3 +4,4 @@ sphinxcontrib-actdiag
 sphinxcontrib-blockdiag
 sphinxcontrib-nwdiag
 sphinxcontrib-seqdiag
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
